@@ -1,2 +1,2 @@
 # pipi
-PTPeople Backend
+PTPeople backend repositroy based on Spring
